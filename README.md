@@ -1,6 +1,6 @@
 ## Declaración Profesional
 
-soy un principiante analista fascinado por el detalle. Me apasiona identificar vulnerabilidades y aplicar buenas prácticas para proteger la confidencialidad e integridad de la información sensible. Mi objetivo es apoyar a las organizaciones a fortalecer su postura de seguridad y responder de manera oportuna ante posibles amenazas.
+Soy un analista de seguridad en formación fascinado por el detalle. Me apasiona identificar vulnerabilidades y aplicar buenas prácticas para proteger la confidencialidad e integridad de la información sensible. Mi objetivo es apoyar a las organizaciones a fortalecer su postura de seguridad y responder de manera oportuna ante posibles amenazas.
 # Gestión de Incidentes de Ciberseguridad
 
 ## Introducción
